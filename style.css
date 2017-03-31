@@ -1,0 +1,39 @@
+body {
+  background-image: url("https://static.pexels.com/photos/29021/pexels-photo-29021.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  color: #FBFFED;
+ background-color: #3d3633;
+}
+.container-fluid {
+  text-align: center;
+  margin-top: 35px;
+  margin-bottom: 45px;
+}
+#quoteDisplay {
+  background-color: #3d3633;
+  opacity: 0.8;
+  font-family: 'Oxygen', sans-serif;
+  font-size: 22px;
+  margin:20px;
+  width:auto;
+}
+h1 {
+  font-family: 'Gloria Hallelujah', cursive;
+  color: #FBFFED;
+  margin-bottom: 20px;
+  margin-top:60px;
+  font-size: 40px;
+}
+
+#newQuote, #tweet {
+  border: none;
+  border-radius: 15%;
+  background-color: #3d3633;
+  opacity: 0.9;
+
+}
+.fa-twitter {
+  color: #FBFFED;
+}
